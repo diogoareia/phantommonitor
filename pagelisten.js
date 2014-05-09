@@ -48,4 +48,4 @@ pageCheck(address);
 
 setInterval(function(){
 	pageCheck(address);
-}, 300000);
+}, 300000); //listen every 5min
